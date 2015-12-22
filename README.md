@@ -24,3 +24,6 @@ Hierarchical storage allows for older content (mails) to be moved to slower/chea
 For archival purpose we also forked this repo to:
 [https://github.com/Zimbra-Community/zopenhsm](https://github.com/Zimbra-Community/zopenhsm)
 
+## pull.sh
+
+Download all repositories in Zimbra-Community, bash -x pull.sh
