@@ -28,6 +28,7 @@ git clone https://github.com/Zimbra-Community/build
 git clone https://github.com/Zimbra-Community/zmpublish
 git clone https://github.com/Zimbra-Community/de_dieploegers_savesend
 git clone https://github.com/Zimbra-Community/zopenhsm
+git clone https://github.com/Zimbra-Community/bulkreply-zimlet
 
 
 cd "$(dirname "$0")"
